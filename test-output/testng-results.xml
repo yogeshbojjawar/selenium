@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-20T18:40:29 IST" name="Suite8" finished-at="2024-01-20T18:40:37 IST" duration-ms="8165">
+    <groups>
+    </groups>
+    <test started-at="2024-01-20T18:40:29 IST" name="Test1" finished-at="2024-01-20T18:40:37 IST" duration-ms="8165">
+      <class name="ParalllelTesting">
+        <test-method is-config="true" signature="setup()[pri:0, instance:ParalllelTesting@67c33749]" started-at="2024-01-20T18:40:29 IST" name="setup" finished-at="2024-01-20T18:40:35 IST" duration-ms="5882" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="setup2()[pri:0, instance:ParalllelTesting@67c33749]" started-at="2024-01-20T18:40:35 IST" name="setup2" finished-at="2024-01-20T18:40:37 IST" duration-ms="2239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup2 -->
+      </class> <!-- ParalllelTesting -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite8 -->
+</testng-results>
